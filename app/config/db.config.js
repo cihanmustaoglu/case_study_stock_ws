@@ -1,4 +1,7 @@
 require("dotenv").config();
+
+
+
 module.exports = {
   HOST: process.env.DBHOST,
   USER: process.env.DBUSER,
